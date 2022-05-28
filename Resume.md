@@ -15,7 +15,8 @@ Jan 1781 - Jan 1806 25 years
 
 # Skills
 **Technical**
-'Reeling' 'Writhing' 'Fainting in coils'
+
+`Reeling` `Writhing` `Fainting in coils`
 
 # Education
 **Drafting Masters**, Faber Castell Architecture University
