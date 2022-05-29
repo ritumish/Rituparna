@@ -7,3 +7,7 @@ author: rituparna.mish@gmail.com
 markdown: kramdown
 
 theme: minima
+
+headers_pages:
+- index.md
+- Microsoft Teams.md
