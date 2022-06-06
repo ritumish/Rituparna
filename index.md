@@ -24,3 +24,5 @@ I am looking for a role where I can use my special point-and-mark skills to anno
 |------|---------|
 | 1806 | Newell |
 | 1781 - 1806 | Derwent |
+
+{{ site.description }}
