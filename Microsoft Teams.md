@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # Introduction
 Microsoft Teams is a business communication platform developed by Microsoft where online meetings, video conferencing, file sharing, chatting, etc., are conducted. During the pandemic, when the entire business world moved to a virtual environment, Teams, along with Zoom and Google Meet, gained much interest.
 
